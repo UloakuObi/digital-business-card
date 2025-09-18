@@ -5,4 +5,16 @@ html, body {
 body {
     background-color: #23252C;
     color: white;
+    text-align: center;
+}
+
+main {
+    width: 317px;
+    margin: auto;
+    background-color: #1A1B21;
+    padding-inline: 1rem;
+}
+
+section {
+    text-align: left;
 }
