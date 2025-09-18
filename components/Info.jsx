@@ -9,7 +9,7 @@ function Info() {
             <a href="#"><small>laurasmith.website</small></a>
             <div className="btn-wrapper">
                 <button className="btn-email">
-                    <img className="btn-icon" src="../assets/Email Icon.png"/>
+                    <img src="../assets/Email Icon.png"/>
                     Email
                 </button>
                 <button className="btn-linkedin">
