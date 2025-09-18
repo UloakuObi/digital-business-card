@@ -29,7 +29,6 @@ main {
     margin-block: auto;
     background-color: #1A1B21;
     min-height: calc(100% - 64px);
-    border: 1px solid red;
 }
 
 h1 {
@@ -112,9 +111,4 @@ footer {
     justify-content: center;
     align-items: center;
     gap: 1em;
-    border: 1px solid white;
 }
-
-/* footer img {
-    max-width: 100%;
-  } */
