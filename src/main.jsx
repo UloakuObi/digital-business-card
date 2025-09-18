@@ -7,10 +7,12 @@ import Footer from "../components/Footer.jsx"
 const root = createRoot(document.getElementById("root"))
 
 root.render(
-  <main>
-    <Info />
-    <About />
-    <Interests />
-    <Footer />
-  </main>
+    <>
+        <main>
+            <Info />
+            <About />
+            <Interests />
+        </main>
+        <Footer />
+    </>
 )
